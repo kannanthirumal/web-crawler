@@ -1,0 +1,17 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "main": "crawler.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node webCrawler.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
